@@ -1,2 +1,3 @@
-# Cpp_Algorithms_Patterns
-C++ implementation of fundamental data structures and algorithmic patterns.Focused on efficiency and memory safety.
+# C++ Problem Solving & Algorithmic Patterns
+
+This repository contains my solutions to core algorithmic challenges, implemented in **modern C++**. The focus is on writing clean, production-ready code while maintaining optimal Time and Space complexity.
