@@ -4,5 +4,6 @@ This repository contains my solutions to core algorithmic challenges, implemente
 
 ## Structure
 * **Arrays_and_Hashing** - Frequency counters, Hash Maps, and Sets.
+* **Linked_Lists** - Dynamic memory allocation and pointer manipulation.
 * **Two_Pointers** - Linear traversals and space optimization.
 * **Sliding_Window** - Sub-array logic and efficiency.
